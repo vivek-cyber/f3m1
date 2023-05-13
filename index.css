@@ -1,0 +1,34 @@
+body
+{padding: 20px;
+    margin: 0%;
+    background-color: #cdcdcd;
+}
+#btn
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    padding: 20px;
+    margin-top: 5px;
+}
+#table,#table2,#table3
+{
+    margin: 20px 0px;
+    width: 100%;
+    border-collapse: collapse;
+    
+    
+}
+
+table,thead>tr td,tbody tr td
+{
+   
+   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    padding: 15px 10px;
+    border: 2px solid #4d4d4d;
+}
